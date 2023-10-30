@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**HemangMishra1234/HemangMishra1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hemang Mishra, a passionate software developer. Welcome to my GitHub profile! ✨
 
-Here are some ideas to get you started:
+🔭 **I'm currently working on:** Building awesome android applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I'm currently learning:** Android, Kotlin, Java and Data Structures & Algorithms.
+
+👯 **I'm looking to collaborate on:** Open source projects, android development, and anything interesting!
+
+💬 **Ask me about:** Android development, programming languages, or anything tech-related! I love helping others.
+
+📫 **How to reach me:** Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hemang-mishra-136949235/) or [Twitter](https://twitter.com/HemangMishra10).
+
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact:** I love to travel and explore new places. Also, I'm a coffee enthusiast ☕️
+
+Let's connect and build something amazing together! Happy coding! 🚀
