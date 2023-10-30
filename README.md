@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hemang Mishra, a passionate software developer. Welcome to my GitHub profile! ✨
+I'm Hemang Mishra, an eager software enthusiast. Welcome to my GitHub profile! ✨
 
 🔭 **I'm currently working on:** Building awesome android applications and learning new technologies.
 
