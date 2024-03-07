@@ -12,8 +12,6 @@ I'm Hemang Mishra, an eager software enthusiast. Welcome to my GitHub profile! �
 
 📫 **How to reach me:** Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hemang-mishra-136949235/) or [Twitter](https://twitter.com/HemangMishra10).
 
-😄 **Pronouns:** He/Him
-
 ⚡ **Fun fact:** I love to travel and explore new places. Also, I'm a coffee enthusiast ☕️
 
 Let's connect and build something amazing together! Happy coding! 🚀
