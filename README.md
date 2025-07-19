@@ -3,7 +3,7 @@
 *Coffee-powered developer who turns ideas into Android apps*
 
 ## What I'm up to these days
-Currently knee-deep in Android development, wrestling with Kotlin coroutines, and occasionally winning arguments with my IDE. When I'm not debugging why my RecyclerView won't scroll properly, you'll find me exploring the endless rabbit holes of DSA problems.
+Currently knee-deep in Android development, wrestling with Kotlin coroutines, and occasionally winning arguments with my IDE. When I'm not debugging why my LazyColumn won't scroll properly, you'll find me exploring the endless rabbit holes of DSA problems.
 
 ## My current obsessions
 - **Android & Kotlin** - Building apps that (hopefully) don't crash on launch
