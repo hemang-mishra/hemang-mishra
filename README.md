@@ -33,6 +33,3 @@ I'm always down for collaborating on projects that solve real problems or just s
 **Fun fact:** This README was written during an Android Gradle build. Yes, I'm still waiting for it to finish.
 <!-- Random Developer Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Snake Animation -->
-![Snake animation](https://github.com/hemang-mishra/hemang-mishra/blob/output/github-contribution-grid-snake.svg)
